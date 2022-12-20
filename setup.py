@@ -17,5 +17,5 @@ setup(
     packages=find_packages(include=['shopify_review']),
     install_requires=[
         'scrapy'
-    ]}
+    ]
 )
