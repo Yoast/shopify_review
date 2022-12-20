@@ -17,6 +17,5 @@ setup(
     packages=find_packages(include=['shopify_review']),
     install_requires=[
         'scrapy'
-    ],
-    extras_require={'plotting': ['matplotlib>=2.2.0', 'jupyter']}
+    ]}
 )
